@@ -6,7 +6,7 @@ Install all required packages using `pip install -r requirements.txt`.
 
 ## Input Data Format 
 The original math problems should be formatted in a json file with `"Problem"` and `"final_ans"` fields: 
-```json
+```sh
 [
     {
         "Problem": "<Problem 0>",
@@ -17,7 +17,7 @@ The original math problems should be formatted in a json file with `"Problem"` a
         "Problem": "<Problem 1>",
         "final_ans": "<Answer 1>"
         ...
-    }
+    },
     ...
 ]
 ```
