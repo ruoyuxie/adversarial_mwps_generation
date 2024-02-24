@@ -1,0 +1,13 @@
+primefac
+numpy
+openai
+scikit-learn
+setuptools
+tiktoken
+matplotlib
+torch
+scipy
+statsmodels
+pandas
+openai-cost-tracker
+transformers

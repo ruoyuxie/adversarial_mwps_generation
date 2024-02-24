@@ -1,0 +1,18 @@
+{
+  "Add_count": "Addition Count",
+  "Divide_count": "Divide Count",
+  "Minus_count": "Minus Count",
+  "Mult_count": "Multiply Count",
+  "const_count": "Constant Count",
+  "var_count": "Variable Count",
+  "int_count": "Operation to Int",
+  "operation_count": "Operation Count",
+  "final_log_4_val_1": "Answer [2, 8)",
+  "final_log_4_val_2": "Answer [8, 32)",
+  "end_log_4_val_2": "Variable [8, 32)",
+  "final_log_4_val_3": "Answer [32, 128)",
+  "final_log_4_val_4": "Answer [128, 512)",
+  "final_log_4_val_5": "Answer [512, 2048)",
+  "final_log_4_val_6": "Answer [2048, 8192)",
+  "const": "Constant"
+}

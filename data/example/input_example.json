@@ -1,0 +1,33 @@
+[
+    {
+        "index": 0,
+        "question": "There are 320 ducks in a pond.  On the first night 1/4 of them get eaten by a fox.  On the second night 1/6 of the remaining ducks fly away, and on the third night 30 percent are stolen.  How many ducks remain after the three nights?",
+        "answer": "First night:320(1/4)=80\n320-80=<<320-80=240>>240\nSecond night:240(1/6)=40\n240-40=<<240-40=200>>200\nThird night:200(.30)=60\n200-60=<<200-60=140>>140 ducks remain\n#### 140",
+        "final_ans": "140"
+    },
+    {
+        "index": 1,
+        "question": "When Jane visited Iran, she visited 6 more than twice as many rehabilitation centers as Han. Han visited 2 less than twice as many rehabilitation centers as Jude did. Jude visited half fewer rehabilitation centers as Lisa did. If Lisa visited 6 rehabilitation centers, how many rehabilitation centers did they all visit assuming they are all different?",
+        "answer": "Jude visited 1/2*6=<<1/2*6=3>>3 rehabilitation centers.\nHan visited 2*3-2=<<2*3-2=4>>4 rehabilitation centers.\nJane visited 6+2*4=<<6+2*4=14>>14 rehabilitation centers.\nThey all visited 6+3+4+14=<<6+3+4+14=27>>27 rehabilitation centers.\n#### 27",
+        "final_ans": "27"
+    },
+    {
+        "index": 2,
+        "question": "The new pad of paper has 120 pages. Sammy uses 25% of the pages for his science project, and another 10 pages for his math homework. How many pages remain in the pad?",
+        "answer": "He used 0.25*120=<<0.25*120=30>>30 on science\nThere were 120-30=<<120-30=90>>90 pages left\nAnd then he has 90-10=<<90-10=80>>80 after math.\n#### 80",
+        "final_ans": "80"
+    },
+    {
+        "index": 3,
+        "question": "Tim decides to start selling necklaces he makes.  He uses 10 charms to make each necklace.  Each charm cost $15.  He sells the necklace for $200.  How much profit does he make if he sells 30?",
+        "answer": "Each necklace cost 10*15=$<<10*15=150>>150 to make\nSo he makes a profit of 200-150=$<<200-150=50>>50 each\nSo his total profit is 50*30=$<<50*30=1500>>1500\n#### 1500",
+        "final_ans": "1500"
+    },
+    {
+        "index": 4,
+        "question": "James buys jars for his honey.  He has 5 hives that each produce 20 liters of honey.  Each jar can hold .5 liters.  How many jars will he need to buy if his friend is bringing his own jars for half the honey?",
+        "answer": "He produces 5*20=<<5*20=100>>100 liters of honey\nThat means he keeps 100/2=<<100/2=50>>50 liters of honey\nSo he needs 50/.5=<<50/.5=100>>100 jars\n#### 100",
+        "final_ans": "100"
+    }
+    
+]
