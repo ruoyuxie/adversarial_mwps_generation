@@ -1,0 +1,1 @@
+Each container will hold 10 tennis balls.

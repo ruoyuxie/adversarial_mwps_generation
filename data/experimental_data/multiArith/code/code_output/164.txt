@@ -1,0 +1,1 @@
+The number of cages used is: 3

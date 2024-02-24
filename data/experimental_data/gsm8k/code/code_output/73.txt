@@ -1,0 +1,1 @@
+Number of frogs that hatch out of the 800 eggs: 40

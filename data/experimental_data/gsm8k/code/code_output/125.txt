@@ -1,0 +1,1 @@
+John drinks 42.0 quarts of water a week.

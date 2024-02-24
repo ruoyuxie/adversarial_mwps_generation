@@ -36,7 +36,7 @@ python main.py \
   --m 20 
 ```
 
-You can specifiy your own generation settings, file structure/path, etc. in `config.py`. The final generated adversarial examples will be saved in `../generated/adversarial_example.json`. We release all the generated adversarial examples for our experiments in `data/experiment_data` folder.
+You can specifiy your own generation settings, file structure/path, etc. in `config.py`. The final generated adversarial examples will be saved in `../generated/adversarial_example.json`. We release all the generated adversarial examples for our experiments in `data/experimental_data` folder.
 
 ## Attack 
 To attack the models generated adversarial examples, go to `attack` folder and run `attack.py`. An example command for attacking `meta-math/MetaMath-70B-V1.0` is:

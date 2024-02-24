@@ -1,0 +1,1 @@
+The total number of books read by Megan, Kelcie, and Greg is: 65

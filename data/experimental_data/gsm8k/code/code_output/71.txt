@@ -1,0 +1,1 @@
+The average number of carnations in the bouquets is: 12.0

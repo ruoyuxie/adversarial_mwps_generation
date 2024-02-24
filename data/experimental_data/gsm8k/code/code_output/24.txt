@@ -1,0 +1,1 @@
+It will take Roger 150.0 minutes to reach his goal of 10000 steps.

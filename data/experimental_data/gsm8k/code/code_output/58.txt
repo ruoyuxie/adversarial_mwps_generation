@@ -1,0 +1,2 @@
+Jim paid 180.0 dollars for the package.
+180.0

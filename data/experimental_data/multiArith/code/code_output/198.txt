@@ -1,0 +1,1 @@
+The number of groups that can be made is: 5

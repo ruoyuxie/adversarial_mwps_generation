@@ -1,0 +1,1 @@
+The number of students remaining is: 22

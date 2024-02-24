@@ -1,0 +1,1 @@
+Number of strawberries left in each bucket: 40.0

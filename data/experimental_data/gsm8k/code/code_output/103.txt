@@ -1,0 +1,1 @@
+The number of blue, spotted fish in the tank is: 5

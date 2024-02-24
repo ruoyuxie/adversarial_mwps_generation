@@ -1,0 +1,1 @@
+The total number of books in the classroom is: 78

@@ -1,0 +1,1 @@
+The number of dancer students who did not slow dance is: 10
