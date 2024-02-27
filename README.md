@@ -61,12 +61,12 @@ You can specifiy your own analysis settings, show plots, etc. in `config.py`. Th
 
 
 
-## Citation
+<!-- ## Citation
 If you find this code useful, we'd appreciate it if you cite the following paper:
 ```
 
 
-```
+``` -->
 
 
 <!-- 
