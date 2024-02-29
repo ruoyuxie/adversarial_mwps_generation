@@ -1,5 +1,5 @@
 # Adversarial Math Word Problem Generation
-This is the official repository for [LLM-Resistant Math Word Problem Generation via Adversarial Attacks](https://arxiv.org/abs/). This repository contains the code for generating adversarial math problems, attacking the models, and analyzing the generated adversarial examples.
+This is the official repository for [LLM-Resistant Math Word Problem Generation via Adversarial Attacks](https://arxiv.org/abs/2402.17916). This repository contains the code for generating adversarial math problems, attacking the models, and analyzing the generated adversarial examples.
 
 ## Installation
 Install all required packages using `pip install -r requirements.txt`.
@@ -59,14 +59,18 @@ python main.py \
 ```
 You can specifiy your own analysis settings, show plots, etc. in `config.py`. The final analysis results will be saved in `../analysis/`
 
-
-
-<!-- ## Citation
+## Citation
 If you find this code useful, we'd appreciate it if you cite the following paper:
 ```
-
-
-``` -->
+@misc{xie2024llmresistant,
+      title={LLM-Resistant Math Word Problem Generation via Adversarial Attacks}, 
+      author={Roy Xie and Chengxuan Huang and Junlin Wang and Bhuwan Dhingra},
+      year={2024},
+      eprint={2402.17916},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+```
 
 
 <!-- 
